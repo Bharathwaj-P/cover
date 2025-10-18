@@ -150,7 +150,8 @@ body{
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-10-06 212356.png>)
+<img width="1920" height="1080" alt="Screenshot 2025-10-18 090820" src="https://github.com/user-attachments/assets/6a25ee49-47b4-445e-9d70-a5d7d6d35ea5" />
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
